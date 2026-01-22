@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is hello.txt
+=======
+this file is present in feature-a branch
+>>>>>>> feature-a
